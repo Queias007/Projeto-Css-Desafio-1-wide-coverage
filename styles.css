@@ -109,7 +109,7 @@ p {
         display: none;
     }
     .button-sign-up{
-        width: 300px;
+        width: 400px;
         text-align: center;
         margin-bottom: 20px;
         text-align: center;
@@ -122,9 +122,10 @@ p {
         display: block;
         height: 20%;
         margin-left: 8%;
+        margin: 15%;
     }
     h1{
-        width: 200px;
+        width: 300px;
         font-size: 40px;
         line-height: 40px;
         margin-top: 50px;
@@ -132,15 +133,17 @@ p {
         
     }
     p{
-        width: 200px;
+        width: 300px;
         text-align: justify;
         font-size: 15px;
         text-align: center;
     }
     .button-learn-more{
-        width: 200px;
+        width: 300px;
         text-align: justify;
+        text-align: center;
         margin-bottom: 20px;
+        
     }
 
 }
