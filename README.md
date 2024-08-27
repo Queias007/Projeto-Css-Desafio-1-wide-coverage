@@ -1,4 +1,5 @@
 <h1>Projeto Responsivo "Ampla Cobertura"</h1> 
+<h3>Criado para praticar HTML e CSS</h3>
 <br>
 <br>
 <h2>Um dos primeiros projetos utilizando as seguintes tecnologias: <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="30px"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="30px">  </h2>
